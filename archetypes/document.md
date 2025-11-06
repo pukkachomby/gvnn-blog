@@ -2,13 +2,9 @@
 date = '{{ .Date }}'
 draft = false
 title = '{{ replace .File.ContentBaseName "-" " " | title }}'
-categories = ''
-tags =['']
-series = ''
+weight = 1
 [params]
     author = 'Homecat'
-    thumbnail = ''
-    headline = ''
 +++
 
 Summary

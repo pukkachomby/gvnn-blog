@@ -1,11 +1,10 @@
-baseURL = 'https://walden.genway.com.cn/'
+baseURL = 'https://gvnn.vn/'
 theme = 'hugo-theme-walden'
 
-# 默认语言配置
 defaultContentLanguage = 'en'
 
 [params]
-    themestyle = 'red'
+    themestyle = 'blue'
     showLangSwitch = true
 
 [taxonomies]

@@ -1,3 +1,3 @@
 [submodule "themes/hugo-theme-walden"]
 	path = themes/hugo-theme-walden
-	url = git@github.com:pukkachomby/hugo-theme-walden.git
+	url = https://github.com/pukkachomby/hugo-theme-walden.git
